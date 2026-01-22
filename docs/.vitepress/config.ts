@@ -5,7 +5,7 @@ import { nav } from "./nav";
 
 const description = ["欢迎来到我个人笔记记录"].toString();
 
-const base = "/vitepress_note/";
+const base = "/blog/";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({

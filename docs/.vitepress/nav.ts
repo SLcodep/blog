@@ -7,7 +7,7 @@ export const nav: DefaultTheme.NavItem[] = [
   {
     text: "前端基础",
     items: [
-      { text: "javascript", link: "/javascript/01" },
+      { text: "javascript", link: "/javascipt/javascript" },
       { text: "css", link: "/css/01" },
     ],
   },
