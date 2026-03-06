@@ -9,12 +9,23 @@ export const nav: DefaultTheme.NavItem[] = [
     items: [
       { text: "javascript", link: "/javascipt/javascript" },
       { text: "css", link: "/css/01" },
+      { text: "计算机网络", link: "/nwtwork/01" },
     ],
   },
   {
     text: "Vue",
     link: "/vue/start",
     activeMatch: "/10.Vue/",
+  },
+  {
+    text: "浏览器原理",
+    link: "/浏览器原理/01",
+    activeMatch: "/40.性能优化与浏览器原理/",
+  },
+  {
+    text: "React",
+    link: "/react/jsx",
+    activeMatch: "/15.React/",
   },
   {
     text: "功能页",
